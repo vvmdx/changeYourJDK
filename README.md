@@ -37,4 +37,5 @@ set jdk8=D:\DevelopTools\Java\jdk1.8.0_291
   
   ![image](https://user-images.githubusercontent.com/75788310/138542890-b405c3fe-b5a3-4c2b-8668-dd44aa05cc29.png)
 
-  
+  更多关于批处理脚本的内容看
+  https://vvmdx.github.io/2021/10/23/2021-10-23-Windows%E6%89%B9%E5%A4%84%E7%90%86/
