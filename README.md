@@ -2,6 +2,10 @@
 Use Batch file in Windows to change your jdk conveniently.
 使用bat脚本一键切换jdk版本，免得自己修改环境变量那么麻烦
 
+# changeYourPHP
+Use Batch file in Windows to change your php version conveniently.
+和jdk差不多，一键切换php版本，不过可能大多数人会用XAMPP、phpstudy、WAMP等集成环境，我自己不喜欢用集成环境，所以切换php版本时需要手动改（phpstorm要在phpstorm设置里改，vscode就需要改环境变量了），因此写了个脚本一键修改环境变量
+
 ## 使用：
 notepad++编辑，修改变量的值为自己电脑jdk的路径
 我的路径如下：
