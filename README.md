@@ -7,6 +7,7 @@ Use Batch file in Windows to change your php version conveniently.
 和jdk差不多，一键切换php版本，不过可能大多数人会用XAMPP、phpstudy、WAMP等集成环境，我自己不喜欢用集成环境，所以切换php版本时需要手动改（phpstorm要在phpstorm设置里改，vscode就需要改环境变量了），因此写了个脚本一键修改环境变量
 
 ## 使用：
+> php需要手动添加像`PHP_HOME=D:\DevelopTools\php-8.0.11`这样的环境变量，然后在环境变量的path里添加`%PHP_HOME%`，而不是像大多数教程一样直接在path里设置php路径
 notepad++编辑，修改变量的值为自己电脑jdk的路径
 我的路径如下：
 ```
